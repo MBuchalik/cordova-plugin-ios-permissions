@@ -13,5 +13,6 @@
 			<string>This app needs access to the photo library to pick images.</string>
 		</config-file>
 		<resource-file src="src/ios/de.lproj" />
+		<resource-file src="src/ios/pt.lproj" />
 	</platform>
 </plugin>
