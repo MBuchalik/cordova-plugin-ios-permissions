@@ -7,7 +7,7 @@
 
 	<platform name="ios">
 		<config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-			<string>This app needs access to the camera to take photos.</string>
+			<string>This app needs access to the camera so that you can take pictures. You can use these pictures as attachments or upload them to our cloud service.</string>
 		</config-file>
 		<config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
 			<string>This app needs access to the photo library to pick images.</string>
@@ -16,6 +16,5 @@
 			<string>This app needs access to the photo library to store images.</string>
 		</config-file>
 		<resource-file src="src/ios/de.lproj" />
-		<resource-file src="src/ios/pt.lproj" />
 	</platform>
 </plugin>

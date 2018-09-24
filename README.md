@@ -1,3 +1,6 @@
+# Important
+This branch is used in one of my products. You should not use the code from here; instead, please use the master branch.
+
 # cordova-plugin-ios-permissions
 This plugin prevents crashes in iOS apps due to missing entries in the plist file.
 
